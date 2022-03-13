@@ -32,7 +32,7 @@ class Pipe():
     def blit(self):
         self.rect = screen.blit(self.img, (self.x, self.y))
 
-# SETUP
+# SETUP 
 # Pygame Setup
 # Set up the bird
 # Set up the pipes
